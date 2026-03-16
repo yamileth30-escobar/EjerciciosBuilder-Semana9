@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Caso1_UsuarioBuilder/Caso1_UsuarioBuilder.csproj" />
+  <Project Path="Caso2_ReporteBuilder/Caso2_ReporteBuilder.csproj" />
+</Solution>
