@@ -1,7 +1,5 @@
 # EjerciciosBuilder-Semana9
 
-# Ejercicios
-
 # Caso 1: Creación de un Usuario en un Sistema
 En una aplicación de software, al momento de registrar un usuario pueden existir muchos datos que conforman su perfil, como nombre, correo electrónico, contraseña, rol dentro del sistema, teléfono, dirección y estado de la cuenta. No todos los registros de usuario necesariamente requieren todos estos datos desde el inicio, por lo que el proceso de construcción del objeto puede volverse complejo si se utilizan constructores tradicionales con muchos parámetros. En este caso, el patrón Builder permite construir el objeto usuario paso a paso, agregando únicamente la información necesaria en cada momento, mejorando la legibilidad del código y facilitando el mantenimiento del sistema.
 
