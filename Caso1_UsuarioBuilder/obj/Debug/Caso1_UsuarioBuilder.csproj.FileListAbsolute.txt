@@ -1,0 +1,7 @@
+E:\Analisis 01-2026\Semana9\Caso1_UsuarioBuilder\Caso1_UsuarioBuilder\bin\Debug\Caso1_UsuarioBuilder.exe.config
+E:\Analisis 01-2026\Semana9\Caso1_UsuarioBuilder\Caso1_UsuarioBuilder\bin\Debug\Caso1_UsuarioBuilder.exe
+E:\Analisis 01-2026\Semana9\Caso1_UsuarioBuilder\Caso1_UsuarioBuilder\bin\Debug\Caso1_UsuarioBuilder.pdb
+E:\Analisis 01-2026\Semana9\Caso1_UsuarioBuilder\Caso1_UsuarioBuilder\obj\Debug\Caso1_UsuarioBuilder.csproj.AssemblyReference.cache
+E:\Analisis 01-2026\Semana9\Caso1_UsuarioBuilder\Caso1_UsuarioBuilder\obj\Debug\Caso1_UsuarioBuilder.csproj.CoreCompileInputs.cache
+E:\Analisis 01-2026\Semana9\Caso1_UsuarioBuilder\Caso1_UsuarioBuilder\obj\Debug\Caso1_UsuarioBuilder.exe
+E:\Analisis 01-2026\Semana9\Caso1_UsuarioBuilder\Caso1_UsuarioBuilder\obj\Debug\Caso1_UsuarioBuilder.pdb
